@@ -64,26 +64,7 @@ This is my personal portfolio website showcasing my projects, skills, education,
 
 ---
 
-## Project Structure
-
-```
-portfolio/
-│
-├── index.html          # Main HTML — all sections & content
-├── style.css           # All styling, animations & responsive rules
-├── script.js           # Three.js 3D scene, interactions & form logic
-│
-├── vaibhav-hero.jpg    # Formal photo shown in Hero section
-└── vaibhav-about.jpg   # Mountain silhouette photo shown in About section
-```
-
-> **All 5 files must be in the same folder** for the site to work correctly.
-
----
-
-## Getting Started
-
-### Run Locally
+### How to run this 
 
 No installation or build step needed — just open the file!
 
@@ -105,24 +86,6 @@ start index.html
 ```
 
 Or simply drag and drop `index.html` into your browser.
-
-> **Tip:** For the best experience, use a local server so the images load correctly:
-> ```bash
-> # Using Python
-> python -m http.server 8000
-> # Then visit http://localhost:8000
-> ```
-
----
-
-## Deployment
-
-### GitHub Pages (Recommended — Free)
-
-1. Create a repository named **`vaibhavagarwal46.github.io`**
-2. Upload all 5 files to the **root** of the repo
-3. Go to **Settings → Pages → Branch: main → Save**
-4. Your site will be live at: `https://vaibhavagarwal46.github.io` 
 
 ## Sections
 
@@ -151,18 +114,8 @@ Or simply drag and drop `index.html` into your browser.
 
 </div>
 
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-Feel free to use this as inspiration for your own portfolio — just give credit....
-
----
-
 <div align="center">
 
-Made with by **Vaibhav Agarwal**
+Made by **Vaibhav Agarwal**
 
 </div>
