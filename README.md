@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Portfolio Preview](vaibhav-hero.jpg)
-
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -11,7 +9,6 @@
 
 **A fully responsive, 3D animated portfolio website built with pure HTML, CSS & JavaScript.**
 
-[🌐 Live Demo](https://vaibhavagarwal46.github.io) &nbsp;·&nbsp; [📧 Contact Me](mailto:vaibhavagarwal478@gmail.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/vaibhavagarwal46)
 
 </div>
 
