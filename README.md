@@ -12,21 +12,6 @@
 
 </div>
 
----
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
-- [Sections](#sections)
-- [Contact](#contact)
-
----
-
 ## About
 
 This is my personal portfolio website showcasing my projects, skills, education, and experience as a **B.Tech Computer Science Engineering** student at SRMS College of Engineering & Technology, Bareilly. The site features a **cyberpunk/tech-noir aesthetic** with a fully interactive 3D animated background powered by Three.js.
